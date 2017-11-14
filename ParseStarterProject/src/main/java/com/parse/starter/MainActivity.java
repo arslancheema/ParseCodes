@@ -7,6 +7,7 @@ import android.util.Log;
 
 import com.parse.FindCallback;
 import com.parse.GetCallback;
+import com.parse.LogInCallback;
 import com.parse.ParseAnalytics;
 import com.parse.ParseException;
 import com.parse.ParseObject;
@@ -121,6 +122,24 @@ public class MainActivity extends AppCompatActivity {
 
     */
 
+
+    /*
+    // Login Users
+    ParseUser userSignIn = new ParseUser();
+    userSignIn.logInInBackground("Cheema", "Password", new LogInCallback() {
+      @Override
+      public void done(ParseUser user, ParseException e) {
+        if (user!=null){
+          Log.i("logInInBackground", "Login Successful ");
+        } else {
+          Log.i("logInInBackground", "Login Failed " + e.toString());
+        }
+      }
+    });
+    */
+
+    // Logout Users
+    //ParseUser.logOut();
 
     ParseAnalytics.trackAppOpenedInBackground(getIntent());
 
