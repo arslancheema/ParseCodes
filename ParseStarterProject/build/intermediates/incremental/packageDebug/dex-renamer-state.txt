@@ -1,0 +1,7 @@
+#Mon Nov 13 16:08:06 JST 2017
+base.0=/Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e71e24958fae1bd828e57fd5780430c24663c4cb
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1e45b64fe2b3a8b74c9d7278b1b79c998ee35900/classes.dex
+base.1=/Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1e45b64fe2b3a8b74c9d7278b1b79c998ee35900
+file.0=/Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e71e24958fae1bd828e57fd5780430c24663c4cb/classes.dex

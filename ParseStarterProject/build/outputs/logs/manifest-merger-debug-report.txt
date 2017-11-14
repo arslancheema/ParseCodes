@@ -1,0 +1,75 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:3:1-33:12
+	package
+		ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:4:5-32
+		INJECTED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:3:11-69
+	android:versionCode
+		INJECTED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:9:5-31:19
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/aarshad/.android/build-cache/3734a66a8d0cd1d1b7e88d4381465cc0020328f0/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /Users/aarshad/.android/build-cache/0407d7fbe88e59b290f7a93709aeffcc4e5db894/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:13:9-41
+	android:allowBackup
+		ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:10:9-43
+meta-data#com.parse.APPLICATION_ID
+ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:15:9-17:52
+	android:value
+		ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:16:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:18:9-20:56
+	android:value
+		ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:20:13-53
+	android:name
+		ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:19:13-48
+activity#com.parse.starter.MainActivity
+ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:23:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/aarshad/.android/build-cache/3734a66a8d0cd1d1b7e88d4381465cc0020328f0/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /Users/aarshad/.android/build-cache/0407d7fbe88e59b290f7a93709aeffcc4e5db894/output/AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/aarshad/Documents/Projects/AndroidStudioProjects/Udemy/Instagram/ParseStarterProject/src/main/AndroidManifest.xml
